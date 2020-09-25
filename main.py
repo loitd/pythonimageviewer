@@ -66,21 +66,20 @@ def save_imageas():
 def show_aboutus():
     messagebox.showinfo(title="About Us", message="""This is PIV - Python Image Viewer
 \nA lightweight, 100% free and pure Python image viewer application. Be cross-platformed on Windows, GNU/Linux, Mac OS X, FreeBSD, Solaris and AIX.
-\nCreated by Tran Duc Loi at https://github.com/loitd.
+\nCreated by Tran Duc Loi at https://github.com/loitd/pythonimageviewer.
 \nFirst release was at 2020 September. 
 \nThis application is under MIT Licence.
 """)
 
 def show_credit():
     messagebox.showinfo(title="Credit", message="""PIV - Python Image Viewer is built under MIT License with contributions of:
-
-Python Developer(s):
+\nPython Developer(s):
 - Tran Duc Loi (https://github.com/loitd)
-
-Image/Icon creator(s):
+\nGraphics creator(s):
 - Tran Duc Loi (https://github.com/loitd)
-
-By me a coffe? 
+\nSetup created using: 
+- NSIS (https://nsis.sourceforge.io/Main_Page)
+\nBy me a coffe? 
 Paypal: https://paypal.me/loitd
 """)
 

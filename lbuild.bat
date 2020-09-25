@@ -2,6 +2,7 @@
 rem pip install PyInstaller tinyaes
 rem SYNTAX: lbuild.bat main.py main
 rem pyinstaller also works on Linux, MacOS, FreeBSD, OpenBSD, ... https://pyinstaller.readthedocs.io/en/stable/requirements.html#gnu-linux
+rem pyinstaller creates X86 or x64 architecture based on current Python architecture
 setlocal
 CALL :GETPARENT PARENT
 echo "Checking environment"

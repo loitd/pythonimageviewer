@@ -7,7 +7,7 @@ __pycache__/
 *.so
 *.bat
 *.rc
-*.nsi
+*.msi
 
 # Distribution / packaging
 .Python

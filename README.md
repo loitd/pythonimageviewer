@@ -2,7 +2,7 @@
 Python Image Viewer - PIV - A lightweight, pure Python Image Viewer.
 
 ## History
-### [Version 1.0]()
+### [Version 1.0](https://github.com/loitd/pythonimageviewer/releases/tag/v1.0)
 * Auto adapt image size, auto resize when program resized
 * Supports [large amount of image formats](https://pillow.readthedocs.io/en/stable/handbook/image-file-formats.html)
 * Save as feature added
